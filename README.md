@@ -1,3 +1,14 @@
+<h1>Quick-Pound</h1>
+<b>Description:</b> Instagram-dupe fullstack application. Worked on as a group project. Able to add photos to your feed, like photos and also add comments
+<img width="1428" alt="Screenshot 2023-11-19 at 11 37 53 AM" src="https://github.com/briannawillis195/quick-pound/assets/143905399/2e350bdb-bf2e-49d0-8f2a-3dad484423b1">
+
+<img width="1439" alt="Screenshot 2023-11-19 at 11 37 37 AM" src="https://github.com/briannawillis195/quick-pound/assets/143905399/3b727e01-4906-4175-bebe-8c5cbd17fe62">
+
+<b>Tech Used</b>: Express, JavaScript, Node.js and MongoDB</b>
+<b>Lessons Learned</b>: This project was tough to start because I was using a new model to build off of. The new model is MVC (Model View Controller). It was a little confusing to follow at first, but after getting familiar with the code, I realized it does make the code look more organized.
+
+
+
 # Install
 
 `npm install`
